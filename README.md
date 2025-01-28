@@ -28,5 +28,27 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 - 
-- ### 
+- ### requirements
+- streamlit
+Pillow
+pytesseract
+pdfplumber
+transformers
+sentence-transformers
+torch
+faiss-cpu
+
+###quesion and answering
+#upload th document
+#it starts processing
+#ask question realated to doc
+#answer is provided
+#get embeddings too
+
+##process
+# pdf reader
+# extract chunks
+# makes enbedding
+# vectore store
+# question answering model
 
