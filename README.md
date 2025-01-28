@@ -15,7 +15,18 @@ import time
 - Python 3.8 or higher
 - Virtual environment (pip)
 
-- 
-- 
+- ###  Set Up Virtual Environment
+#### Using venv
+```bash
+# Create virtual environment
+python -m venv venv
 
+# Activate virtual environment
+# Windows
+venv\Scripts\activate
+# macOS/Linux
+source venv/bin/activate
+```
+- 
+- ### 
 
